@@ -8,7 +8,7 @@ O Git é um conceito essencial no mercado de trabalho atualmente, por isso sempr
  
 ## Checklist do Desafio
 - [x] Criar uma aplicação Flutter​
-- [ ] Criar um banco de dados / Back4App​
+- [x] Criar um banco de dados / Back4App​
 - [ ] Fazer um cadastro de pessoa com foto de perfil​
 - [ ] Salvar apenas o path da imagem na base de dados​
 - [ ] Listar as pessoas em uma lista com sua respectiva foto​
